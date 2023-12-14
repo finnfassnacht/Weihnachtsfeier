@@ -8,7 +8,7 @@ function show() {
     document.getElementById("title").innerText = "Programmkarte";
     document.getElementById("banner").style = "background-color: #0F8A5F";
     window.scrollTo(0,0); 
-    document.getElementById("maintext").innerHTML = "<h1>Begrüßungsrede</h1>Gedicht (Kilian)<br>Klavier (Pia)<br>1. Satz Theaterspiel<br><br><h1>Vorspeise</h1>2. Satz Theaterspiel<br>Klavier (Zirun)<br>Looking out for you / Joy again <br>(Luis, Richard, Zirun, Hendrik)<br>Tradition (Anton, Giulia, Leonie)<br>Gedicht (Connar, Justus)<br><br><h1>Hauptgang</h1>3. Satz Theaterspiel<br>Fächertanz (Jing)<br>Jonglieren (Tasja)<br>Gedicht (Yixuan, Junhong)<br>DJ Auftritt (Marcel)<br><br><h1>Nachspeise</h1>Wer weiß denn sowas? Merz Spezial!<br>4. Satz Theaterspiel<br>Klavier (Zirun, Pia)<br>Gedicht (Anton)<br>Wichteln <br>(Weihnachtsmann, Knecht Ruprecht)<br>Abmoderation<br>Diashow<br>";
+    document.getElementById("maintext").innerHTML = "<h1>Begrüßungsrede</h1>Eröffnungsgedicht<br>Krippenspiel Akt 1<br>Weit entfernt, doch so nah<br><br><h1>Vorspeise</h1>Kleine Pause<br>Krippenspiel Akt 2<br>Yue mit Klavierbegleitung von Zirun<br>Klavier Solo von Gustav<br><br><h1>Hauptspeise</h1>Pause<br>Krippenspiel Akt 3 <br>Song von Richard<br>Weihnachtstraditionen einzelner Länder<br>Wer weiß denn so was? Merz Spezial!<br><br><h1>Nachspeise</h1>Kleine Pause<br>Krippenspiel Akt 4<br>Kahoot mal anders<br>Weihnachtlicher Einstieg<br>Wichteln (Weihnachtsmann, Knecht Ruprecht)<br>Diashow<br>Party!<br>";
 
 }
 (function () {
